@@ -159,11 +159,3 @@ The page currently uses percentage and pixel units, such as `90%`, `250px` and `
 
 I first created the HTML boilerplate and added personal content: headings, an About Me paragraph, hobby and website lists, a profile image, links and a button. I then added the weekly schedule, a two-column table layout, a mood paragraph with emojis and a contact form. Finally, I created an external stylesheet and applied basic CSS selectors, colours, web-safe fonts, margins, padding, borders and widths. The design uses bright colours while keeping the content separated into clear sections. The remaining advanced CSS requirements and GitHub Pages publication will be completed before the final submission.
 
-## Final submission checklist
-
-- [ ] Add all four screenshots to the `screenshots/` folder.
-- [ ] Complete any remaining CSS steps required by the rubric.
-- [ ] Create a public GitHub repository.
-- [ ] Upload all project files, including `README.md`, `index.html`, `style.css`, the photo and favicon.
-- [ ] Enable GitHub Pages.
-- [ ] Replace the placeholder URL above with the real published URL.
