@@ -21,25 +21,35 @@ The objective of this assignment is to practise the structure and purpose of HTM
 
 Created `index.html` with `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` and `<body>`. The page title is **My First Webpage**.
 
+<img width="671" height="209" alt="image" src="https://github.com/user-attachments/assets/d9630ec6-9643-4f72-b665-fc7c1474c39e" />
+
+
 ### Step 1. Text structure
 
 Added the student's name in an `<h1>`, the course in an `<h2>`, an About Me heading in an `<h3>`, and a personal paragraph.
+
+<img width="414" height="92" alt="image" src="https://github.com/user-attachments/assets/7a8b4e3f-a8fd-4d24-ae82-522fe73900b7" />
+
 
 ### Step 2. HTML lists
 
 Added an ordered list (`<ol>`) of hobbies and an unordered list (`<ul>`) of favourite websites.
 
+<img width="937" height="450" alt="image" src="https://github.com/user-attachments/assets/c44e2f61-6925-42a5-935a-74333c4a9922" />
+
+
 ### Step 3. Images and links
 
 Added a profile image with `<img>` and two clickable links with `<a>` to itch.io and Pinterest.
+
+<img width="801" height="52" alt="image" src="https://github.com/user-attachments/assets/6c49a5d4-7121-4176-bf7d-17a1f7771e9d" />
+
 
 ### Step 4. HTML button
 
 Added a simple **Click Me** button. It is intentionally non-functional because no functionality is required for this step.
 
-### Part 1 screenshot
-
-> **Screenshot placeholder:** Add the finished Part 1 screenshot as `screenshots/part-1-html.png`.
+<img width="846" height="317" alt="image" src="https://github.com/user-attachments/assets/77288a2c-e65a-4022-8b28-ba2e3b0b7886" />
 
 ## Part 2. Intermediate HTML
 
@@ -66,9 +76,8 @@ Created a form with:
 
 The form is a front-end demonstration and does not send data to a server yet.
 
-### Part 2 screenshot
+<img width="1766" height="1017" alt="image" src="https://github.com/user-attachments/assets/e8e25cb0-bdf1-463d-ae1c-159995758dcd" />
 
-> **Screenshot placeholder:** Add the finished Part 2 screenshot as `screenshots/part-2-intermediate-html.png`.
 
 ## Part 3. Introduction to CSS
 
@@ -108,9 +117,8 @@ Reusable classes are used for repeated elements such as content boxes and button
 
 > **Status:** The assignment rubric specifically asks for `.highlight` and `#main-heading`. These names should be added to the HTML and CSS before final submission if they are required by the instructor.
 
-### Part 3 screenshot
+<img width="1902" height="986" alt="image" src="https://github.com/user-attachments/assets/3d05d9b6-8174-4c60-9d1d-2b7918cf4a18" />
 
-> **Screenshot placeholder:** Add the finished Part 3 screenshot as `screenshots/part-3-css.png`.
 
 ## Part 4. Intermediate CSS
 
@@ -142,11 +150,10 @@ The page currently uses percentage and pixel units, such as `90%`, `250px` and `
 
 > **Status:** To be completed after the GitHub repository is created. Enable GitHub Pages and add the published URL here:
 
-`https://[username].github.io/[repository-name]/`
+`[https://[username].github.io/[repository-name]/](https://hamazhai.github.io/My-Website-Assignment-1-Web/)`
 
-### Part 4 screenshot
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/a9f40504-5b6a-4b12-866b-f08955cbc038" />
 
-> **Screenshot placeholder:** Add the finished Part 4 screenshot as `screenshots/part-4-intermediate-css.png`.
 
 ## Work process summary
 
