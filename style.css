@@ -1,0 +1,185 @@
+/* Universal selector */
+* {
+    box-sizing: border-box;
+}
+
+/* Element selectors */
+body {
+    margin: 0;
+    background-color: #66e0ff;
+    color: #24124d;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 10px 0;
+    color: white;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin: 0;
+    color: #fff45c;
+    font-size: 22px;
+    text-align: center;
+}
+
+h3 {
+    color: #5a28c9;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 17px;
+}
+
+a {
+    color: #4b1db8;
+}
+
+footer {
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 3px solid #24124d;
+    background-color: #24124d;
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    color: #fff45c;
+}
+
+/* ID selector the header is a unique element , cause I use it only once */
+#header {
+    width: 90%;
+    margin: 25px auto 20px;
+    padding: 30px;
+    border: 4px solid #24124d;
+    background-color: #773fe8;
+    text-align: center;
+}
+
+#header p {
+    margin: 0;
+    color: white;
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+}
+
+/* Class selectors, cause these styles can be reused */
+.layout-table {
+    width: 90%;
+    margin: 0 auto;
+    border-spacing: 15px;
+}
+
+.nav-column {
+    width: 25%;
+}
+
+.content-column {
+    width: 75%;
+}
+
+.navigation {
+    position: sticky;
+    top: 15px;
+    padding: 20px;
+    border: 3px solid #24124d;
+    background-color: #fff45c;
+}
+
+/* Descendant selector for navigation headings */
+.navigation h3 {
+    margin-top: 0;
+    color: #e6007e;
+    text-align: center;
+}
+
+.navigation ul {
+    padding-left: 22px;
+}
+
+.navigation li {
+    margin: 14px 0;
+}
+
+.navigation a {
+    color: #24124d;
+    font-weight: bold;
+}
+
+.content-box {
+    margin-bottom: 20px;
+    padding: 25px;
+    border: 3px solid #24124d;
+    background-color: white;
+}
+
+.profile-photo {
+    width: 250px;
+    margin: 0 20px 10px 0;
+    border: 5px solid #ff3ca6;
+}
+
+.bright-button {
+    padding: 10px 20px;
+    border: 3px solid #24124d;
+    background-color: #ff3ca6;
+    color: white;
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.schedule-table th {
+    padding: 10px;
+    border: 2px solid #24124d;
+    background-color: #773fe8;
+    color: white;
+}
+
+.schedule-table td {
+    padding: 10px;
+    border: 2px solid #24124d;
+    background-color: #dffcff;
+    text-align: center;
+}
+
+.emoji {
+    margin: 5px 0;
+    font-size: 48px;
+}
+
+form {
+    padding: 15px;
+    border: 2px solid #24124d;
+    background-color: #fff5b5;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 70%;
+    padding: 8px;
+    border: 2px solid #24124d;
+    font-size: 16px;
+}
+
+.color-input {
+    width: 80px;
+}
